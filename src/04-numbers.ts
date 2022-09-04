@@ -27,4 +27,6 @@
   let bin = 0b1010; // tipo binario (inicio 0b)
   console.log('bin', bin);
 
+  const myNumber: number = 10; // no utilizar number en mayúscula ya que significa otra cosa.
+
 })();
